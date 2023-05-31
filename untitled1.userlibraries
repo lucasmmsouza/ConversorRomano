@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.junit.jupiter:junit-jupiter:5.10.0-M1">
+    <archive path="C:/Users/lmms2/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.0-M1/junit-jupiter-5.10.0-M1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.10.0-M1">
+    <archive path="C:/Users/lmms2/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.0-M1/junit-jupiter-api-5.10.0-M1.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/lmms2/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.10.0-M1">
+    <archive path="C:/Users/lmms2/.m2/repository/org/junit/platform/junit-platform-commons/1.10.0-M1/junit-platform-commons-1.10.0-M1.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/lmms2/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-params:5.10.0-M1">
+    <archive path="C:/Users/lmms2/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.0-M1/junit-jupiter-params-5.10.0-M1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.10.0-M1">
+    <archive path="C:/Users/lmms2/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.0-M1/junit-jupiter-engine-5.10.0-M1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.10.0-M1">
+    <archive path="C:/Users/lmms2/.m2/repository/org/junit/platform/junit-platform-engine/1.10.0-M1/junit-platform-engine-1.10.0-M1.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:7.8.0">
+    <archive path="C:/Users/lmms2/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.36">
+    <archive path="C:/Users/lmms2/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" />
+  </library>
+  <library name="Maven: com.beust:jcommander:1.82">
+    <archive path="C:/Users/lmms2/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar" />
+  </library>
+  <library name="Maven: org.webjars:jquery:3.6.1">
+    <archive path="C:/Users/lmms2/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
